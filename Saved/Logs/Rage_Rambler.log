@@ -2114,3 +2114,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.06-00.01.42:478][811]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.71ms to complete.
 [2020.03.06-00.01.42:478][811]LogFileHelpers: Loading map 'SherlyHall' took 29.635
 [2020.03.06-00.02.00:949][813]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (18.325 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.03.06-00.11.28:359][394]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
